@@ -52,14 +52,27 @@ img {
   word-wrap: break-word;
 }
 
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-box {
+  align-self: flex-end;
+  text-align: right;
+}
+
 .msgcontact {
   display: block;
-  color: #cddaff;
-  text-decoration: none;
-  font-size: 1.3em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 a.msgcontact:hover {
   text-decoration: underline;
+}
+
+.copyright {
+  margin-bottom: 0.25em;
 }
