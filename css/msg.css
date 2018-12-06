@@ -69,7 +69,8 @@ img {
   margin-bottom: 1em;
 }
 
-a.msgcontact.github img {
+a.msgcontact.github img,
+a.msgcontact.linkedin img {
   max-width: 3em;
 }
 a.msgcontact:hover {
