@@ -1,6 +1,6 @@
 ## Portfolio - Michael Graham
 
-If you want details of closed-source projects I developed for my employer, see Professional Projects. For open source examples of small tools and projects I have built in my spare time, scroll down to Personal and Side Projects. 
+If you want details of closed-source projects I developed for my employer, see Professional Projects. For open source examples of small tools and projects I have built in my spare time, scroll down to Personal and Side Projects.
 
 ### Professional Projects
 
@@ -26,6 +26,6 @@ Many of these are work-in-progress. In most cases they have lots more work to do
 * [mirrim](https://github.com/sentientforest/mirrim) - A simple Rust command line tool with a specific use case: generating the mirror image of an image file and displaying it alongside the original. I'm left handed, and write my personal notes in [mirror writing](https://en.wikipedia.org/wiki/Mirror_writing), which of course is unreadable by almost everyone. So I wrote this tool to reverse my backwards writing from my own notebooks.
 * [exifgs](https://github.com/sentientforest/exifgc) - Simple command line tool written in Node.js that can be used to verify an image does not contain GPS coordinates. For security reasons, it can be useful to run this against a set of photographs to make sure you don't leak coordinates to a sensitive location (like from a picture you took at home). It returns proper error codes and could in theory be integrated into some kind of automated check system, but I haven't gotten around to testing that out.
 * [svg-dev](https://github.com/sentientforest/svg-dev) - Just a personal svg playground that I use to test out SVG display in a web browser. It is simply a static page I run using [http-server](https://www.npmjs.com/package/http-server).
-* [Photo site - wanderlust.reisen](https://github.com/sentientforest/wanderlust) - Built a few years ago, this is a static site I built to host vacation photographs. I used it to try out Vue and Webpack, by building a pagination component. Live site is at [wanderlust.reisen](wanderlust.reisen). The top level domain "reisen" is German for "to travel".
+* [Photo site - wanderlust.reisen](https://github.com/sentientforest/wanderlust) - Built a few years ago, this is a static site I built to host vacation photographs. I used it to try out Vue and Webpack, by building a pagination component. Live site is at [wanderlust.reisen](https://wanderlust.reisen). The top level domain "reisen" is German for "to travel".
 * [Tutorials](https://github.com/sentientforest/tutorials) - I started a mono-repo to track progress and various tutorials. Currently just gatsby, graphql-node, and wasm.
 * [Notes repo - Sylvanomicon](https://github.com/sentientforest/sylvanomicon) - My notes "grimoire" that I call the Sylvanomicon. I'm starting to collect notes acculated over the years. This includes my notes on tress, growing, gardening, homesteading as well as coding, technology, computer hardware, etc. Inspired by the [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) list I came across on github.
