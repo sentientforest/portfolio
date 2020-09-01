@@ -1,0 +1,17 @@
+{
+  "name": "sentientforest-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server site/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/sentientforest/profile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
